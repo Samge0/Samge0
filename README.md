@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Samge
 
-<!--
-**Samge0/Samge0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 一名热衷探索技术世界与内在边界的开发者  
+> 喜欢人工智能、逆向、自动化、边界清晰的人际关系  
+> 技术是表达，系统是我自我生长的土壤 🌱  
 
-Here are some ideas to get you started:
+![Samge0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samge0&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samge0&layout=compact)](https://github.com/Samge0/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 UDP式人际协议 v1.0（Samge Draft）
+
+| 协议特性   | 含义                   | 备注                         |
+|------------|------------------------|------------------------------|
+| 无连接     | 无需时刻在线           | 不强求“实时回应”             |
+| 无确认     | 没有必须回应的义务     | 回复是自由而非义务           |
+| 无状态     | 不留情感缓存           | 见面聊聊，不必延伸过多        |
+| 轻载荷     | 没有沉重的经济/情绪拖拽| 不牵涉金钱，不情绪绑架        |
+| 可预期     | 你知道对方不会越界     | 因此你也愿意偶尔主动          |
+
+**关键词：平等、独立、低干扰、可信任**
+
+## 🧭 Human Protocol: UDP Social Philosophy
+
+我喜欢一种轻量、非黏附型的社交方式，就像 UDP 协议：
+
+- ✅ 无状态：不需频繁确认，互不打扰，想起就聊
+- ✅ 无依赖：你我都能独立前行，不彼此托举
+- ✅ 无缓存：过去的事不过夜，不情绪绑架
+
+我们可以偶尔见面、安静吃饭、各自生活，也依旧是朋友。
+
+---
+
+## 🔐 Boundary Language Library · v0.1
+
+为了保护自己的心智带宽与系统稳定性，我在练习使用边界语言：
+
+- 📌 **对于经济索取：**  
+  “我理解你有困难，但这件事我无法继续承担。”
+
+- 📌 **对情绪勒索：**  
+  “我能共情你的感受，但我不为此负责。”
+
+- 📌 **对高频社交期待：**  
+  “我更习惯低频交往，但这不是疏远，而是节奏不同。”
+
+### 📡 当前人际心智带宽状态（BETA）
+
+| 类型             | 状态   | 示例                   |
+|------------------|--------|------------------------|
+| 🧍‍♂️ 静默陪伴型   | ✅ 保留 | xx同学，低维护       |
+| 📞 高索取型       | ❌ 冻结 | 经济负担关系       |
+| 🤝 合作型         | ⚠️ 观望 | 潜在合作伙伴     |
+| 💣 情绪高负荷型   | ⛔ 拒绝 | 需明确设限，避免消耗   |
+
+---
+
+### 🛠️ 技术兴趣栈
+
+Python / JS / FastAPI / AI工具链构建  
+爬虫 / 自动化 / 数据逆向分析 / 容器化部署 / 移动端开发
+
+---
+
+### 🧳 后续可能要做的事情
+
+- 🎯 构建个人边界系统（人际接口规范 v0.2）
+- 🔍 用技术方式记录梦境、情绪与成长轨迹
+- 🛸 探索自我可持续性成长的“轻人格编程”
+
+---
+
+### 📬 想联系我？
+
+轻轻打个招呼即可，不回就是在忙。  
+不是冷漠，是心智带宽有限。感谢理解 🙏
+
+你无需担心打扰我，只要你不打破我边界。  
+朋友的定义不是频率，是互相尊重空间的能力。
+
+---
+
+> 🕯️ “人生就像维护一组微服务，稳定运行比无限扩展更重要。”
